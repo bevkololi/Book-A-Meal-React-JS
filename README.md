@@ -1,2 +1,2 @@
-# diary-reactjs
- MyDiary is an online journal where users can pen down their thoughts and feelings.
+# Book A Meal
+Book A Meal is an online platform that allows users to book meals at their own comfort
